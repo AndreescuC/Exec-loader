@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ExecutableLoader.dir/main.c.o  -o ExecutableLoader.exe -Wl,--out-implib,libExecutableLoader.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
